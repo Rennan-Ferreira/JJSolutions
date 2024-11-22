@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843292569125",
+    "project_id": "energycheck-860bf",
+    "storage_bucket": "energycheck-860bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843292569125:android:46899efeb8516e95f219cc",
+        "android_client_info": {
+          "package_name": "com.rennan.jjsolutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj0cDvsE9SKXoe3sv0h0Ws7qdi-PB6Uno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

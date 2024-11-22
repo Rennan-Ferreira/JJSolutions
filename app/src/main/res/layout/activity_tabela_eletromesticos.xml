@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0E3C09"
+    android:orientation="vertical"
+    android:padding="18dp">
+
+    <EditText
+        android:id="@+id/editNomeEletrodomestico"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nome do Eletrodoméstico"
+        android:inputType="text"
+        android:textColorHint="#FFFFFF" />
+
+    <EditText
+        android:id="@+id/editConsumo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Consumo (kWh)"
+        android:inputType="numberDecimal"
+        android:textColorHint="#FFFFFF" />
+
+    <EditText
+        android:id="@+id/editHorasUso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Horas de uso diário"
+        android:inputType="number"
+        android:textColorHint="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btnSalvar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Salvar" />
+
+</LinearLayout>
